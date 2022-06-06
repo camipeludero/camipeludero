@@ -1,16 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1>
-  Hi! I'm Camila
-</h1>
-
-### :woman_technologist: About Me : I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
-
-- :telescope: Currently working as a Front End Developer
-
-- :mailbox: Say hi: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin-com/in/camipeluderoastrada](https://www.linkedin.com/in/camilapeluderoastrada/))
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -23,6 +10,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<p><img src="https://media1.giphy.com/media/kDMlyJ6UT5Jt20N6Pw/giphy.gif?cid=ecf05e47xft1mtsr3kdt613fl9o7emj1y2uf34fvqf40vet0&rid=giphy.gif&ct=s" width="32"/><b>Buenos Aires, Argentina</b></p>
+<h1>
+  Hello, <br>
+I'm Camila
+</h1>
+<h4>I’m a frontend developer based in Buenos Aires, Argentina. I have unwavering passion and energy for learning new stuff and creating cool things with code.</h4>
 
-
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camipeludero&show_icons=true&theme=nightowl)
+[Portfolio ↗](https://camilapeludero.netlify.app/)
+[Linkedin ↗](https://linkedin-com/in/camipeluderoastrada)
