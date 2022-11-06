@@ -20,5 +20,4 @@ I'm Camila
 </h1>
 <h4>I’m a frontend developer based in Buenos Aires, Argentina. I have unwavering passion and energy for learning new stuff and creating cool things with code.</h4>
 
-[Portfolio ↗](https://camilapeludero.netlify.app/)
 [Linkedin ↗](https://linkedin-com/in/camipeluderoastrada)
